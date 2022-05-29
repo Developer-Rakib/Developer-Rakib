@@ -1,7 +1,6 @@
 ### Hi there 👋, I Am Tazul Islam Rakib
 #### React Frontend Developer || MERN Stack
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning MERN Stack 
 
 
